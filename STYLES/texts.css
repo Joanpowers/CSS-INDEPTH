@@ -1,0 +1,28 @@
+.red{
+    color: red;
+
+}
+.royalblue{
+    color: royalblue;
+}
+.rightalign{
+    text-align: right;
+    text-decoration: line-through;
+    
+}
+.leftalign{
+    text-align: left;
+    text-decoration: overline;
+    text-indent: 50px;
+    letter-spacing: 5px;
+}
+.centrealign{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px  2px red;
+}
+.justifyalign{
+    text-align: justify;
+    text-decoration: wavy;
+    
+}

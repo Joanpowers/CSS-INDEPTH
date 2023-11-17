@@ -1,0 +1,16 @@
+a:link,a:visited{
+    background-color: dodgerblue;
+    color: azure;
+    padding: 10px 15px;
+    text-align: end;
+    text-decoration: none;
+    display:inline-block ;
+}
+a:hover,a:active{
+    background-color: brown;
+    
+}
+
+body{
+    background-color: cadetblue;
+}

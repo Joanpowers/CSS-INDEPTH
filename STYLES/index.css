@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.rowcontainer{
+    display: contents;
+    gap:2rem;
+}
+body{
+    background-color: azure;
+}

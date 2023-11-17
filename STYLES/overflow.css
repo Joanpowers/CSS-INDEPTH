@@ -1,0 +1,52 @@
+.hidden{
+    overflow: hidden;
+    background-color: cadetblue;
+    color: black;
+    height: 200px;
+    width: 300px;
+
+}
+.vissible{
+    overflow: visible;
+    background-color: cadetblue;
+    color: black;
+    height: 200px;
+    width: 300px;
+
+}
+
+.scroll{
+    overflow: scroll;
+    background-color: cadetblue;
+    color: black;
+    height: 200px;
+    width: 300px;
+
+}
+
+.auto{
+    overflow: auto;
+    background-color: cadetblue;
+    color: black;
+    height: 200px;
+    width: 300px;
+
+}
+body{
+    background-color: azure;
+}
+.-x{
+    overflow-x: auto;
+    background-color: cadetblue;
+    color: black;
+    height: 200px;
+    width: 300px;
+ 
+}
+.-y{
+    overflow-y:visible;
+    background-color: cadetblue;
+    color: black;
+    height: 200px;
+    width: 300px;   
+}
